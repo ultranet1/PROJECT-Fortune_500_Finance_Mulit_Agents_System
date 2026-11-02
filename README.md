@@ -191,4 +191,4 @@ or the notebooks.
 
 Built on top of course material and diagrams originally distributed as a
 DataCamp LangGraph course; this repository restructures that material into
-a standalone, runnable engineering project..
+a standalone, runnable engineering project.
